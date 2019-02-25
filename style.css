@@ -1,0 +1,9 @@
+@import "reset.css";
+
+.content {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  background: #93B7BE;
+  
+}
